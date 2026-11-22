@@ -1,0 +1,6 @@
+{
+  "name": "Arena Sains IPA VIII",
+  "description": "Game kuis interaktif IPA Kelas VIII SMP dengan sistem skor kombo, bonus kecepatan, dan papan peringkat real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
